@@ -1,0 +1,13 @@
+Tampa Average Temperatures in January
+Decade	Average Temp
+1940's	60.74
+1950's	61.61
+1960's	60.03
+1970's	60.89
+1980's	59.82
+1990's	63.43
+2000's	61.35
+2010's	61.49
+
+Highest Decade Average Temp: 63.43
+Lowest Decade Average Temp: 59.82
